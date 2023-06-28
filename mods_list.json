@@ -4,5 +4,13 @@
       "projectID": 537113,
       "fileID": 3518421
     }
+  ],
+  "mods": [
+    {
+      "name": "Optifine",
+      "downloadURL": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=f19079cbe436f16e79db515d2bd05844",
+      "sha1": "137363842C5BFDEBB72356A4079FAEEF3157EB3C",
+      "size": "5905"
+    }
   ]
 }
