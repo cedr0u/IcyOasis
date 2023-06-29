@@ -1,0 +1,2 @@
+mods list: https://github.com/cedr0u/IcyOasis/blob/main/mods_list.json
+compile programme: ./gradlew shadowJar
